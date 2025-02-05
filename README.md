@@ -14,6 +14,8 @@ L’objectif est d’exploiter le **Transfer Learning** pour améliorer la déte
 ---
 ## 📦 Pré-requis et Installation
 
+Lien du dataset : https://drive.google.com/drive/folders/1kfdbpCrR5EKE7_Nxywy1Fs5ezdNMnhAD
+
 ### 1️⃣ **Cloner le Repo**
 ```bash
 git clone https://github.com/tonpseudo/DeepLungNet.git
